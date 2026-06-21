@@ -1,0 +1,21 @@
+https://scanqr.ai/
+
+✅ সহজ সমাধান:
+🟢 Option 1 (সবচেয়ে সহজ)
+এই ওয়েবসাইটে যাও:
+👉 https://scanqr.ai/
+অথবা
+👉 https://qr-studio.com/
+“URL” সিলেক্ট করো
+এই লিংক দাও:
+https://technoparkbd.com/demo/
+Generate করো
+Download QR image
+🖼️ তুমি যেটা চেয়েছো (Barcode/QR Image idea)
+
+তুমি চাইলে এইভাবে ডিজাইন করতে পারো:
+
+📦 Poster / Card এ QR Code বসাবে
+নিচে লিখবে:
+“Scan to Open Demo System”
+Scan করলেই যাবে তোমার demo link এ
